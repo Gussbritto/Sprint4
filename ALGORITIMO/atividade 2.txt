@@ -1,0 +1,43 @@
+atividade 2 
+
+A)
+
+A:= 10
+B:= 20
+Escrever B =20
+B:= 5
+Escreva A,B 
+A:= 10
+B:=5
+
+
+
+B)
+
+A:= 10 
+B:= 20
+C:= A = 10
+B:= C = 10
+A:= A = 10
+Escreva A,B,C 
+A:= 10 
+B:= 10
+C:= 10
+
+
+C)
+
+
+X:= 1
+Y:= 2
+Z:= Y-Z = 1
+Escreva z =1
+X:= 5
+Y:= X+Z =6
+Escreva X,Y,Z
+X:= 5
+Y:= 6
+Z:= 1
+
+
+

@@ -1,0 +1,19 @@
+1.F E V = F
+
+2.V E V = V 
+
+3.V E F = F
+
+4 V OU V = V
+
+5. F OU F = F
+
+6. V OU F = F
+
+7. V E V = V 
+
+8. ( F E F = F) OU ( F OU V = V) = F OU V = V 
+
+9. N (V OU F = V) = F
+
+10. N V =F OU F = F  

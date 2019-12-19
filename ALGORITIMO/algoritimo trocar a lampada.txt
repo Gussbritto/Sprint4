@@ -1,0 +1,13 @@
+Trocar uma lampada 
+
+-pegar uma lampada nova
+-abrir a embalagem
+-pegar uma escada
+-subir na escada 
+-retirar a lampada queimada 
+-colocar a lampada nova 
+-descer da escada
+-jogar a lampada queimada no lixo
+-guardar a escada
+-ligar o interrupitor
+ 
